@@ -2,9 +2,7 @@
 #              ^^^^- NOT /bin/sh; also, do not run with "sh scriptname"
 ####################################################################
 #                                                                  #
-#   Script to automate removing of unused git branches		       #
-#                                                                  #
-#   <fabrizio.stellato@infocert.it>								   #
+#   Script to automate removing of unused git branches		   #
 #                                                                  #
 #   VER 1.2                                                        #
 #                                                                  #
